@@ -30,6 +30,7 @@ The following steps is used to prepare the necessary environment and dependencie
 
      rosrun my_srv position_server
 3.In the new command terminal,run the command to intialise the node for recieving the random target and make the robot to reach the target:
+
      rosrun assigntment1 assignment1
 
 
