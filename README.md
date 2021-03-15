@@ -13,7 +13,7 @@ The server package my_srv contains the C++ file position_server.cpp which contai
 # Instructions for Running the Project
 The following steps is used to prepare the necessary environment and dependencies to run the assignment:
 
-1.Open command line terminal and navigate to the the local workspace using      cd /<name_of_workspace>/src  command.
+1.Open command line terminal and navigate to the the local workspace using cd /<name_of_workspace>/src command.
 
 2.Clone the remote repository of assignment in your local workspace using the command: git clone    https://github.com/Aathee1103/Researchtrack_assignment1.git 
 
