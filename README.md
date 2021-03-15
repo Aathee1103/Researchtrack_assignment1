@@ -13,11 +13,13 @@ The server package my_srv contains the C++ file position_server.cpp which contai
 # Instructions for Running the Project
 The following steps is used to prepare the necessary environment and dependencies to run the assignment:
 
-1.Open command line terminal and navigate to the the local workspace using      cd /<name_of_workspace>(my_ros_ws)/src command.
+1.Open command line terminal and navigate to the the local workspace using  *d /<name_of_workspace>(my_ros_ws)/src* command.
 
 2.Clone the remote repository of assignment in your local workspace using the command: git clone    https://github.com/Aathee1103/Researchtrack_assignment1.git 
 
-3.Build the file using   #catkin_make in the root folder of your workspace.
+3.Build the file using catkin_make in the root folder of the workspace.
+
+4.Run the command rospack profile to read and parse the .xml for each package and provide a complete dependency tree for all packages.
 
 # Accessing the Assignment
 
