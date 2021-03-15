@@ -32,5 +32,10 @@ The following steps is used to prepare the necessary environment and dependencie
 3.In the new command terminal,run the command to intialise the node for recieving the random target and make the robot to reach the target:
 
      rosrun assigntment1 assignment1
+4.In the new command terminal,run the commoand to view the computational graph:
+
+     rosrun rqt_graph rqt_graph
+
+
 
 
