@@ -25,4 +25,4 @@ The following steps is used to prepare the necessary environment and dependencie
 
 1.The simulator for the holomonicc robot in 2d space with 2d simulator,this simulator can be launched using the command:
 
-## rosrun
+**rosrun stage_ros stageros $(rospack find assignment1)/world/exercise.world
