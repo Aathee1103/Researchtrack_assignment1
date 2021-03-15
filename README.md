@@ -26,3 +26,10 @@ The following steps is used to prepare the necessary environment and dependencie
 1.The simulator for the holomonicc robot in 2d space with 2d simulator,this simulator can be launched using the command:
 
      rosrun stage_ros stageros $(rospack find assignment1)/world/exercise.world
+2.In the new command terminal,run the command to initialise the service node:
+
+     rosrun my_srv position_server
+3.In the new command terminal,run the command to intialise the node for recieving the random target and make the robot to reach the target:
+     rosrun assigntment1 assignment1
+
+
