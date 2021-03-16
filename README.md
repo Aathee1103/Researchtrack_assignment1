@@ -36,7 +36,6 @@ The following steps is used to prepare the necessary environment and dependencie
 
      rosrun rqt_graph rqt_graph
 
-![rosgraph](https://user-images.githubusercontent.com/80621864/111177875-8bb4a500-85a2-11eb-83e1-f4a683dac166.png)
 
 
 
